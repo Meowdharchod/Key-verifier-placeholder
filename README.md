@@ -3,13 +3,14 @@
 <a href="https://www.buymeacoffee.com/daboynb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Instructions
-1) Uninstall the app from the Play Store https://play.google.com/store/apps/details?id=com.google.android.safetycore.
-2) Download the APK from this repository.
-3) Install it.
+1) Uninstall the app from the Play Store https://play.google.com/store/apps/details?id=com.google.android.contactkeys
+2) 
+3) Download the APK from this repository.
+4) Install it.
 
 Enjoy!
 
-If Google tries to replace the APK with the updated SafetyCore app, it will fail due to a signature mismatch.
+If Google tries to replace the APK with the updated Key Verifier app, it will fail due to a signature mismatch.
 
 # Screenshots
 <p>
@@ -27,3 +28,5 @@ If Google tries to replace the APK with the updated SafetyCore app, it will fail
 - v3: Removed unnecessary code and reduced the size from 5.4 MB to 35,4 kB. (This release is signed, you need to uninstall the previuos one)
 
 - v2000000000: Fix for Obtainium users.
+
+- vmain forked and build to replace Key Verifier.
